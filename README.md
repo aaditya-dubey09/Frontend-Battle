@@ -43,13 +43,14 @@
 ```
 frontend-battle/
 ├── src/
-│   ├── assets/          # All provided videos and images
-│   ├── App.jsx          # Main application component
-│   ├── App.css          # Custom styles and animations
-│   └── main.jsx         # Application entry point
-├── dist/                # Production build (ready for deployment)
-├── package.json         # Dependencies and scripts
-└── README.md           # This file
+│ ├── assets/ # All provided images, videos, and GIFs
+│ ├── components/ # All UI components
+│ ├── App.jsx # Main app structure
+│ └── main.jsx # App entry point
+├── public/ # Static files if any
+├── dist/ # Production build output
+├── package.json # Dependencies and scripts
+└── README.md # You're here
 ```
 
 ## 🎨 Design Features
@@ -113,7 +114,7 @@ pnpm run build
 
 ## 🔧 AI Used
 
-**AI used: Manus AI** - For complete website development, asset integration, and responsive design implementation.
+**AI used: Manus AI & ChatGPT** - For layout generation, component structuring, asset placement, and responsive design implementation.
 
 ## 📞 Support
 
@@ -123,4 +124,9 @@ The website is production-ready and optimized for the design competition. All re
 
 **Total Development Time**: Completed within the 4-hour competition timeframe  
 **Status**: ✅ Ready for submission and deployment
+
+---
+
+> Final Note
+> Thank you for reviewing this submission. Every component and effect was carefully implemented to balance design precision with creative flair.
 
